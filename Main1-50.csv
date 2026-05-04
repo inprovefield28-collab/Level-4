@@ -1,0 +1,51 @@
+id,question,A,B,C,Answerkey
+1,Where are you from?,I'm from Taiwan.,"I'm fine, thank you.",I am a teacher.,A
+2,Is he from India?,"Yes, he is.","No, he don't.","Yes, she is.",A
+3,How do you go to school?,I go to school by bus.,I go to school at eight.,I like my school.,A
+4,Does she go to school by metro?,"No, she doesn't.","Yes, she do.",She go by bike.,A
+5,What do you do on weekends?,I go jogging.,I am jogging.,I went jogging.,A
+6,What does he do in his free time?,He watches TV.,He watching TV.,He watch TV.,A
+7,What time do you get up?,I get up at six thirty.,It's six thirty.,I get up by bus.,A
+8,What time does she do her homework?,She does it at five.,She do it at five.,She is doing homework.,A
+9,Whose soda is that on the chair?,It's my soda.,It is a chair.,That is a soda.,A
+10,Would you like some beef sandwiches?,"Yes, please.","No, I'm from Japan.",I like beef.,A
+11,Where were you yesterday?,I was at the mall.,I am at the mall.,I go to the mall.,A
+12,Were you at school yesterday?,"No, I wasn't.","No, I'm not.","Yes, I do.",A
+13,What did you do last night?,I visited a friend.,I visit a friend.,I am visiting a friend.,A
+14,Did you play basketball last night?,"Yes, I did.","Yes, I do.","No, I'm not.",A
+15,How much is the T-shirt?,It's ten dollars.,They're ten dollars.,It's a T-shirt.,A
+16,How much are the pants?,They're one hundred dollars.,It's one hundred dollars.,I like the pants.,A
+17,What's your favorite season?,My favorite season is fall.,I like to eat apples.,It is sunny today.,A
+18,How's the weather in winter?,It's cold and snowy.,I like winter.,It was cold yesterday.,A
+19,Is she from the UK?,"No, she's from the USA.",She is from UK.,"Yes, he is.",A
+20,Does he go to school on foot?,"Yes, he does.",He goes by foot.,"No, he doesn't go.",A
+21,What do they do in their free time?,They surf the Internet.,They surfs the Internet.,They are surfing.,A
+22,What time does the class start?,It starts at eight.,It's eight now.,I start at eight.,A
+23,Were they at the restaurant?,"Yes, they were.","Yes, they are.","No, they don't.",A
+24,Did he wash the car yesterday?,"No, he didn't.","No, he doesn't.",He doesn't wash it.,A
+25,How much is that red coat?,It's fifty dollars.,It's fifty dollar.,They are fifty dollars.,A
+26,What's the weather like today?,It's rainy and wet.,I like rainy days.,It was rainy.,A
+27,Where is your sister from?,She's from Spain.,She is from Spanish.,He's from Spain.,A
+28,Do you go to school by bike?,"Yes, I do.",I go to bike.,"No, I'm not.",A
+29,What does Jane do on Sundays?,She plays baseball.,She play baseball.,She is playing baseball.,A
+30,What time do you go to bed?,I go to bed at ten.,"Yes, I go to bed at nine.",I am in bed.,A
+31,Was he at the zoo last Sunday?,"Yes, he was.","Yes, he is.","No, he wasn't there.",A
+32,Did you watch videos last night?,"No, I didn't.",I don't watch videos.,"Yes, I do.",A
+33,How much are these jeans?,They're ninety dollars.,It's ninety dollars.,These are jeans.,A
+34,Is summer your favorite season?,"Yes, it is.","Yes, I am.","No, I don't like.",A
+35,Are you from Singapore?,"No, I'm from Japan.",I am from Singapore.,"Yes, I'm not.",A
+36,How does your dad go to work?,He goes to work by car.,He go to work by car.,He is by car.,A
+37,Do you listen to music every day?,"Yes, I do.",I am listening to music.,"No, I don't listen.",A
+38,What time does he take a shower?,He takes a shower at seven.,He take a shower at seven.,"Yes, he takes a shower at seven.",A
+39,Were you at the movie theater?,"No, I was at home.","No, I'm at home.","Yes, I did.",A
+40,Did she walk the dog yesterday?,"Yes, she did.","Yes, she walks.","No, she doesn't.",A
+41,How much is this skirt?,It's twenty dollars.,They are twenty dollars.,It is a skirt.,A
+42,Is it foggy in London now?,"Yes, it is.","Yes, it was.","No, it doesn't.",A
+43,Where are they from?,They're from the USA.,They from the USA.,They are USA.,A
+44,Does she study English on weekends?,"Yes, she does.",She studies English.,"No, she don't.",A
+45,What time do you have lunch?,I have lunch at twelve.,"Yes, I have lunch at twelve.",I'm having lunch.,A
+46,Were you at the zoo yesterday?,"Yes, I was.","Yes, I am.","No, I don't.",A
+47,Did you clean your room?,"Yes, I cleaned it.","Yes, I clean it.","No, I'm not.",A
+48,How much are the shorts?,They're fifteen dollars.,It's fifteen dollars.,The shorts is cheap.,A
+49,What's your favorite weather?,I like sunny days.,It is sunny.,My favorite day is Sunday.,A
+50,Is it dry in spring?,"No, it's usually wet.","Yes, I am.","No, it isn't dry.",A
